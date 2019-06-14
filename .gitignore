@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+.env
+logs
+server
+world
+banned-players.json
+banned-ips.json
+ops.json
+package-lock.json
+package.json
+usercache.json
+whitelist.json
